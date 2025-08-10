@@ -1,27 +1,38 @@
-# Task10
+# 🗂️ CRUD Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+A simple and responsive CRUD (Create, Read, Update, Delete) web application built using **HTML**, **CSS**, **Bootstrap**, **TypeScript**, and **Angular**.  
+The app allows users to manage records with basic functionality and a straightforward UI.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Features
 
-## Code scaffolding
+- 📱 **Responsive Design** — works on mobile, tablet, and desktop.
+- 📝 **CRUD Operations** — create, read, update, and delete records.
+- ⚡ **Functional & Lightweight** — powered by Angular and TypeScript.
+- 🔄 **Reusable Components** — simple structure for easy maintenance.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🛠️ Technologies Used
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **HTML5**
+- **CSS3**
+- **Bootstrap**
+- **TypeScript**
+- **Angular**
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 📦 Installation & Setup
 
-## Running end-to-end tests
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Ibrahimelshabrawy/CRUD-Application
+   Navigate to the project directory: cd E-Commerce-Project
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. Install dependencies: npm install
 
-## Further help
+3. Run the application: ng serve
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+4. Open in browser: http://localhost:4200
