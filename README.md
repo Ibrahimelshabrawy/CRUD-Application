@@ -29,11 +29,12 @@ The app allows users to manage records with basic functionality and a straightfo
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Ibrahimelshabrawy/CRUD-Application
-   Navigate to the project directory: cd CRUD-Application
+2. Navigate to the project directory: cd CRUD-Application
 
-2. Install dependencies: npm install
+3. Install dependencies: npm install
 
-3. Run the application: ng serve
+4. Run the application: ng serve
 
-4. Open in browser: http://localhost:4200
+5. Open in browser: http://localhost:4200
+
 
